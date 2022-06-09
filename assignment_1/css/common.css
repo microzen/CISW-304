@@ -26,7 +26,7 @@ ol {
 }
 
 hr {
-    /* The default is block in `hr` */
+    /* Default is block in the tag `hr` */
     display: inline-block !important;
     text-align: left;
     width: 75%;
