@@ -30,6 +30,6 @@ hr {
     display: inline-block !important;
     text-align: left;
     width: 75%;
-    /* border-color: brown; */
+    border-color: brown;
     color: brown;
 }
