@@ -26,8 +26,10 @@ ol {
 }
 
 hr {
-    width: 75%;
-    border-color: brown;
-    color: brown;
+    /* The default is block in `hr` */
+    display: inline-block !important;
     text-align: left;
+    width: 75%;
+    /* border-color: brown; */
+    color: brown;
 }
