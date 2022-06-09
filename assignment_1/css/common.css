@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 215, 0);
+    padding: 20px 50px;
+}
+
+h1 {
+    size: 80pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    size: 55pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    size: 18pt;
+}
+
+ul,
+ol {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    width: 75%;
+    border-color: brown;
+    color: brown;
+    text-align: left;
+}
