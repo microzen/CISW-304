@@ -1,0 +1,40 @@
+#data table {
+    margin: 0px auto;
+}
+
+#data table img {
+    width: 250px;
+    height: 250px;
+}
+
+#data td {
+    /* that's the reason i don't like table. */
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+#data span {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#data td div {
+    padding: 20px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.more {
+    font-size: small;
+    text-align: right;
+    color: gray;
+}
+
+#data a {
+    color: black;
+    text-decoration: none;
+}
