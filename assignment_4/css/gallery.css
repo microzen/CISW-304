@@ -38,3 +38,10 @@
     color: black;
     text-decoration: none;
 }
+
+
+/* Extra-Credit */
+
+a:hover {
+    opacity: 50%;
+}
