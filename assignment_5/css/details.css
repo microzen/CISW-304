@@ -1,0 +1,35 @@
+.details {
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.details h1 {
+    margin-bottom: 10px;
+    /* width: 99%; */
+}
+
+.details img {
+    width: 500px;
+}
+
+.info {
+    text-indent: 2em;
+    /* text-align: center; */
+    display: inline-block;
+    width: 600px;
+    margin-top: 20px;
+}
+
+.price {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    text-decoration: underline;
+}
+
+.details button {
+    margin-left: 30px;
+}
